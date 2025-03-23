@@ -82,3 +82,35 @@ In **1989**, British scientist **Tim Berners-Lee**, working at CERN, proposed th
 ## **Conclusion**
 CERN created the web to solve the problem of scientific information sharing, but it ended up **revolutionizing global communication**. Today, the web is an essential part of our daily lives, connecting billions of people worldwide.
 
+# The First Web Server: How CERN Hosted the Web
+
+## **What is a Server?**
+A **server** is a computer that stores and delivers data to other computers (clients) over a network. Before the web, servers were already used for tasks like file storage, email, and remote access.
+
+## **Were Servers Invented Before the Web?**
+Yes! Servers existed long before the World Wide Web:
+- **1960s-1970s:** Mainframe computers acted as servers in early networked systems.
+- **1969:** ARPANET (the predecessor of the internet) had host computers that functioned as servers.
+- **1970s:** FTP servers were used for file transfer across networks.
+
+## **The First Web Server (1990)**
+- The first web server was set up by **Tim Berners-Lee** at **CERN** in **1990**.
+- It ran on a **NeXT computer** and used a program called **httpd (HyperText Transfer Protocol Daemon)**.
+- The first web page, stored on this server, explained what the web was.
+- **Address of the first web server:**
+  ```
+  http://info.cern.ch
+  ```
+
+## **How Did the First Web Server Work?**
+- The server stored **HTML documents**.
+- A **web browser** sent a request using **HTTP (HyperText Transfer Protocol)**.
+- The server responded by sending back the requested webpage.
+
+## **Expansion of Web Servers**
+- After CERN made the web public in **1993**, more institutions set up **HTTP servers**.
+- The first widely adopted web server software was **Apache HTTP Server (1995)**, which remains popular today.
+
+## **Conclusion**
+While servers existed long before the web, the **first web server** was created in **1990 at CERN**, marking the beginning of the modern internet. This breakthrough allowed websites to be accessed globally, shaping the web as we know it today.
+
