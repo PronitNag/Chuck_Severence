@@ -40,3 +40,45 @@ Before the World Wide Web (WWW) was created in 1991, the internet existed and wa
 
 ## Conclusion
 While the internet existed before the Web, it was mostly used for communication, research, and file sharing. The **World Wide Web (WWW)**, created by **Tim Berners-Lee in 1991**, introduced **web pages, hyperlinks, and browsers**, making the internet accessible to a wider audience.
+
+# Why Did CERN Create the Web?
+
+## **Background**
+Before the **World Wide Web (WWW)**, researchers at CERN and other institutions faced challenges in sharing and accessing scientific information efficiently. Existing methods like **email, FTP, and printed reports** were slow and cumbersome. 
+
+In **1989**, British scientist **Tim Berners-Lee**, working at CERN, proposed the **World Wide Web** as a solution.
+
+## **Reasons CERN Created the Web**
+
+### 1. **Simplifying Information Sharing Among Scientists**
+- CERN had thousands of researchers worldwide collaborating on physics experiments.
+- They needed a **universal platform** to easily share documents, research papers, and data.
+- The web allowed seamless access to information regardless of location.
+
+### 2. **The Hypertext Concept**
+- Berners-Lee wanted to use **hypertext** (text with embedded links) to connect documents.
+- This allowed users to **navigate between related information effortlessly.**
+
+### 3. **Decentralized Access to Information**
+- Research data was stored on different computers, often using different operating systems.
+- The web provided a **standardized way** to access and link this data.
+
+### 4. **User-Friendly Navigation**
+- Existing systems like **Gopher and FTP** required users to memorize commands.
+- The web introduced a **graphical interface** where users could simply click on links.
+
+## **How Was the Web Created?**
+- In **1989**, Tim Berners-Lee proposed the World Wide Web.
+- In **1990**, he developed:
+  - **HTML (HyperText Markup Language)** – for structuring web pages.
+  - **HTTP (HyperText Transfer Protocol)** – for communication between computers.
+  - **The first web browser** (called **WorldWideWeb**).
+  - **The first web server** (running at CERN).
+
+## **Impact of the Web**
+- In **1993**, CERN made the web **public and free to use**, leading to rapid global adoption.
+- The web became the foundation for modern internet technologies like **websites, search engines, e-commerce, and social media**.
+
+## **Conclusion**
+CERN created the web to solve the problem of scientific information sharing, but it ended up **revolutionizing global communication**. Today, the web is an essential part of our daily lives, connecting billions of people worldwide.
+
